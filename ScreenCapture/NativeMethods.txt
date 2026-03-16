@@ -1,0 +1,4 @@
+﻿EnumDisplayDevices
+EnumDisplayMonitors
+GetMonitorInfo
+EnumDisplaySettingsExW
